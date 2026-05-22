@@ -19,11 +19,11 @@
 
 ---
 
-### 🛠 Technical Skills & Arsenal
+### Technical Skills & Arsenal
 
 <div align="center">
 
-**Programming Languages**<br>
+**Programming Languages**<br><br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -34,7 +34,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-**Frameworks & Libraries**<br>
+**Frameworks & Libraries**<br><br>
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,7 +45,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Operations**<br>
+**Databases & Operations**<br><br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -53,21 +53,27 @@
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-F47920?style=for-the-badge)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Core Development Focus
 
+</div>
+
 *Below is an overview of my primary engineering domains, reflecting the architecture and scope of my public and private repositories:*
 
-* **Enterprise Web Architecture:** Architecting and developing robust, full-stack systems (e.g., Facility Booking Platforms) implementing Clean Architecture principles, JWT-based security, and reactive user interfaces using Go (Gin) and Vue.js.
-* **Cross-Platform Mobile Engineering:** Building high-performance, offline-first mobile applications with Flutter and Dart. Implementing advanced state management, local NoSQL caching, and background synchronization for market analytics.
-* **Web3 & Decentralized Systems:** Engineering decentralized application (dApp) interfaces and writing secure smart contracts for zero-fee token swaps on Ethereum testnets using Solidity, Next.js, and Ethers.js.
-* **Modern Backend Integration:** Utilizing tools like Supabase and Prisma ORM to create seamless, automated data management flows for rapid application deployment.
-* **Data Science & Analysis:** Processing and analyzing historical data trends using predictive modeling tools like RapidMiner to deliver accurate forecasting solutions.
-
+- **Enterprise Web Architecture**: Architecting and developing robust, full-stack systems (e.g., Facility Booking Platforms) implementing Clean Architecture principles, JWT-based security, and reactive user interfaces using Go (Gin) and Vue.js.
+- **Cross-Platform Mobile Engineering**: Building high-performance, offline-first mobile applications with Flutter and Dart. Implementing advanced state management, local NoSQL caching, and background synchronization for market analytics.
+- **Web3 & Decentralized Systems**: Engineering decentralized application (dApp) interfaces and writing secure smart contracts for zero-fee token swaps on Ethereum testnets using Solidity, Next.js, and Ethers.js.
+- **Modern Backend Integration**: Utilizing tools like Supabase and Prisma ORM to create seamless, automated data management flows for rapid application deployment.
+- **Data Science & Analysis**: Processing and analyzing historical data trends using predictive modeling tools like RapidMiner to deliver accurate forecasting solutions.
+  
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZaidan1&theme=tokyonight&hide_border=true" alt="Zaidan's Streak" />
