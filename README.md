@@ -68,6 +68,6 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZaidan1&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZaidan1&show_icons=true&theme=onedark&hide_border=true&bg_color=000000" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZaidan1&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
 </p>
