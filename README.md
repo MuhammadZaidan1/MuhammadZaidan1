@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
+  <img src="assets/banner.jpg" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Muhammad Zaidan Fadhlurrahman</h1>
